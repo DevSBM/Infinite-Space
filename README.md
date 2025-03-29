@@ -1,6 +1,9 @@
 W,A,S,D : Movements
+
 Spacebar / Left-Click : Fire
+
 R : Reload
+
 
 ![Screenshot_1](/public/images/1.png)
 
